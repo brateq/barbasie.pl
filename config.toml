@@ -58,11 +58,6 @@ name = "Kontakt"
 url = "kontakt"
 weight = 4
 
-[[menu.main]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 5
-
 
 #################### default parameters ################################
 [params]
