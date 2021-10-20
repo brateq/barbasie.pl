@@ -1,9 +1,9 @@
 ######################## default configuration ####################
 baseURL = "https://www.example.com"
-title = "Persian"
+title = "Barbasie"
 theme = "persian-hugo"
-languageName = "En"
-languageCode = "en-us"
+languageName = "Pl"
+languageCode = "pl"
 # post pagination
 paginate = "5"
 # disqus short name
@@ -39,23 +39,23 @@ link = "plugins/search/search.js"
 
 ################################ menu ##################################
 [[menu.main]]
-name = "Home"
+name = "Strona główna"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
-url = "about"
+name = "O nas"
+url = "o-nas"
 weight = 2
 
 [[menu.main]]
-name = "Category"
+name = "Pracowakacje"
 url = "categories/nature/"
 weight = 3
 
 [[menu.main]]
-name = "Contact"
-url = "contact"
+name = "Kontakt"
+url = "kontakt"
 weight = 4
 
 [[menu.main]]
