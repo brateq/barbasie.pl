@@ -65,7 +65,7 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Theme designed by [Themefisher](https://themefisher.com/) and developed by [Gethugothemes](https://gethugothemes.com/). Alpaca symbol created by Pau Urquijo from the Noun Project."
 
 # Preloader
 [params.preloader]
