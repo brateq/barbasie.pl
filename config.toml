@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://www.example.com"
-title = "Barbasie"
+title = "Barbasie.pl, czyli blog podróżniczy Basi i Bartosza"
 theme = "persian-hugo"
 languageName = "Pl"
 languageCode = "pl"
@@ -58,8 +58,8 @@ weight = 3
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Barbasie.pl logo"
+author = "BK"
 # search  
 search = true
 # contact form action
