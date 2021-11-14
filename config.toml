@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://www.example.com"
-title = "Barbasie.pl, czyli blog podróżniczy Basi i Bartosza"
+title = "barbasie.pl, czyli blog podróżniczy Basi i Bartosza"
 theme = "persian-hugo"
 languageName = "Pl"
 languageCode = "pl"
@@ -49,17 +49,21 @@ url = "o-nas"
 weight = 2
 
 [[menu.main]]
-name = "Pracowakacje"
+name = "Polska"
 url = "categories/nature/"
 weight = 3
 
+[[menu.main]]
+name = "Świat"
+url = "categories/nature/"
+weight = 3
 
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Barbasie.pl logo"
-author = "BK"
+description = "barbasie.pl logo"
+author = "bk"
 # search  
 search = true
 # contact form action
