@@ -1,5 +1,5 @@
 ---
-title: "John Doe"
+title: "Basia"
 image: ""
 email: "johndoe@parsian.com"
 social:
