@@ -1,6 +1,6 @@
 ---
 title: "Basia"
-image: ""
+image: "images/basia.png"
 email: ""
 ---
 
