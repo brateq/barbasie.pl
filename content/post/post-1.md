@@ -1,49 +1,132 @@
 ---
-title: "Building an interface between people and nature"
-date: 2020-05-12T12:14:34+06:00
+title: "Malta. Wyspa fortów, skał i karaluchów"
+date: 2021-11-01
 image: "images/post/post-1.jpg"
 author: "Basia" # use capitalize
-description: "This is meta description."
 categories: ["Green Tree"]
-tags: ["green", "tree"]
+tags: ["Malta"]
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Malta jest brudna, a na chodnikach leżą śmieci. Czasami resztki jedzenia, kubki po kawie, pety i zgniecione plastikowe butelki zamiatane są w kąt i układane w piramidki. Od czasu do czasu na piramidki z odpadków wspinają się karaluchy. Czy to wszystko, co można zobaczyć na Malcie?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Na szczęście nie! W kilka dni udało nam się odwiedzić Maltę, Gozo i Comino. Rzeczywiście miasta i tereny znajdujące się poza zasięgiem wzroku turystów są mocno zaśmiecone. Urok Malty kryje się jednak w licznych fortyfikacjach, fantastycznych formacjach skalnych wzdłuż całego wybrzeża i gwarancji cudownej pogody właśnie wtedy, gdy nad Polskę nadciąga zwykle jesień.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+🧠 Podczas lotu z Polski do Malty znaleźliśmy niezły sposób na komunikację na pokładzie samolotu. Wyłączamy wi-fi, ale włączamy Bluetooth, odpalamy apkę Bluetooth Chat i przez cały lot jesteśmy ze sobą w kontakcie.
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+# Dziennik podróży
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: co, gdzie i kiedy warto zobaczyć. Zwykle coś z naszego planu odpada, ale w zamian wskakuje coś innego. W dzienniku podróży notujemy wszystkie te miejsca, do których udało nam się dotrzeć. Przyda się? Mam nadzieję!
+
+## Sobota, dzień pierwszy
+
+### Kierunek: Valletta
+
+#### Atrakcje:
+
+* National War Museum w Fort Saint Elmo (10 EUR od osoby)
+* Saint John's Co-Cathedral
+* The Valletta Waterfront
+* Fort Saint Angelo (10 EUR od osoby)
+* Upper Barrakka Gardens
+* Spazju Kreattiv
+
+#### Środki transportu:
+
+* 22 km pieszo
+* Water taxi z [The Valletta Waterfront](https://goo.gl/maps/evyXiHMRuKERpAt99) do Isla (Senglea) i z powrotem z Birgu (Vittoriosa) do Valletty (2 EUR od osoby w jedną stronę).
+* Windą do Upper Barrakka Gardens (1 EUR od osoby)
+
+## Niedziela, dzień drugi
+
+### Kierunek: Mdina
+
+#### Atrakcje:
+* Mdina Gate
+* Fortifications of Mdina
+* Dingli Cliffs
+* Blue Grotto
+
+#### Środki transportu:
+* 12 km pieszo
+* Autobusy (1,5 EUR od osoby za 2-godzinną podróż, z możliwością przesiadki)
+
+## Poniedziałek, dzień trzeci
+
+### Kierunek: południowo-wschodnia część Malty
+
+#### Atrakcje:
+
+* Tarxien Temples (6 EUR od osoby)
+* St. Thomas Bay Beach
+* Munxar Path
+* St. Peter's Pool
+* It-Torri ta' San Lucjan
+
+#### Środki transportu:
+* 19 km pieszo
+* Autobusy (1,5 EUR od osoby za 2-godzinną podróż, z możliwością przesiadki)
+
+## Wtorek, dzień czwarty
+
+### Kierunek: Comino
+
+#### Atrakcje:
+* Blue Lagoon
+* L-Imriek
+* Daħlet il-Ħmara
+
+#### Środki transportu:
+* 6 km pieszo
+* Autobusy (1,5 EUR od osoby za 2-godzinną podróż, z możliwością przesiadki)
+* Promem Comino Ferries Co-Op z Cirkewwa Ferry Terminal do Blue Lagoon i z powrotem (12 EUR od osoby w obie strony)
+
+## Środa, dzień piąty
+
+### Kierunek: północna część Malty
+
+#### Atrakcje:
+* Xemxija Hill Heritage Walk
+* Plaża w zatoce Golden Bay
+* Plaża Għajn Tuffieħa
+* The Malta Classic Car Collection (10 EUR od osoby)
+* Malta National Aquarium (11,60 EUR od osoby)
+
+#### Środki transportu:
+* 15 km pieszo
+* Autobusy (1,5 EUR od osoby za 2-godzinną podróż, z możliwością przesiadki)
+
+## Czwartek, dzień szósty
+
+### Kierunek: Gozo
+
+#### Atrakcje:
+* Tal-Mixta Cave
+* Dwejra Marine
+* Blue Hole
+* Rocky Bay
+* Xlendi Bay
+* Wied Il-Mielaħ
+
+#### Środki transportu:
+* 9 km pieszo
+* Promem Gozo Channel Op z Cirkewwa Ferry Terminal do Mgarr i z powrotem (4,65 EUR od osoby w obie strony)
+* Quadem wypożyczonym od Gozo Quad Hire (60 EUR za 7 godzin jazdy, paliwo w cenie)
+* Autobusy (1,5 EUR od osoby za 2-godzinną podróż, z możliwością przesiadki)
+
+## Piątek, dzień siódmy
+
+### Kierunek: Coral Lagoon
+
+#### Atrakcje:
+* Ramla tat-Torri
+* Wieża Torri L-Abjad
+* Coral Lagoon
+* Rdum Tal-Madonna Important Bird Area
+* Opuszczony Mellieha Bay Hotel
+* Għadira Nature Reserve
+
+#### Środki transportu:
+* 13 km pieszo
+* Autobusy (1,5 EUR od osoby za 2-godzinną podróż, z możliwością przesiadki)
+* Renault Zoe na minuty z aplikacją GoTo Global (6 EUR)
