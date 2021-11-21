@@ -1,7 +1,7 @@
 ---
 title: "Malta. Wyspa fortów, skał i karaluchów"
 date: 2021-11-01
-image: "images/post/post-1.jpg"
+image: "images/post/malta.jpg"
 author: "Basia" # use capitalize
 categories: ["Green Tree"]
 tags: ["Malta"]
@@ -18,7 +18,7 @@ Na szczęście nie! W kilka dni udało nam się odwiedzić Maltę, Gozo i Comino
 
 Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: co, gdzie i kiedy warto zobaczyć. Zwykle coś z naszego planu odpada, ale w zamian wskakuje coś innego. W dzienniku podróży notujemy wszystkie te miejsca, do których udało nam się dotrzeć. Przyda się? Mam nadzieję!
 
-## Sobota, dzień pierwszy
+## 📆 Sobota, dzień pierwszy
 
 ### Kierunek: Valletta
 
@@ -37,7 +37,7 @@ Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: 
 * Water taxi z [The Valletta Waterfront](https://goo.gl/maps/evyXiHMRuKERpAt99) do Isla (Senglea) i z powrotem z Birgu (Vittoriosa) do Valletty (2 EUR od osoby w jedną stronę).
 * Windą do Upper Barrakka Gardens (1 EUR od osoby)
 
-## Niedziela, dzień drugi
+## 📆 Niedziela, dzień drugi
 
 ### Kierunek: Mdina
 
@@ -51,7 +51,7 @@ Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: 
 * 12 km pieszo
 * Autobusy (1,5 EUR od osoby za 2-godzinną podróż, z możliwością przesiadki)
 
-## Poniedziałek, dzień trzeci
+## 📆 Poniedziałek, dzień trzeci
 
 ### Kierunek: południowo-wschodnia część Malty
 
@@ -67,7 +67,7 @@ Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: 
 * 19 km pieszo
 * Autobusy (1,5 EUR od osoby za 2-godzinną podróż, z możliwością przesiadki)
 
-## Wtorek, dzień czwarty
+## 📆 Wtorek, dzień czwarty
 
 ### Kierunek: Comino
 
@@ -81,7 +81,7 @@ Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: 
 * Autobusy (1,5 EUR od osoby za 2-godzinną podróż, z możliwością przesiadki)
 * Promem Comino Ferries Co-Op z Cirkewwa Ferry Terminal do Blue Lagoon i z powrotem (12 EUR od osoby w obie strony)
 
-## Środa, dzień piąty
+## 📆 Środa, dzień piąty
 
 ### Kierunek: północna część Malty
 
@@ -96,7 +96,7 @@ Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: 
 * 15 km pieszo
 * Autobusy (1,5 EUR od osoby za 2-godzinną podróż, z możliwością przesiadki)
 
-## Czwartek, dzień szósty
+## 📆 Czwartek, dzień szósty
 
 ### Kierunek: Gozo
 
@@ -114,7 +114,7 @@ Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: 
 * Quadem wypożyczonym od Gozo Quad Hire (60 EUR za 7 godzin jazdy, paliwo w cenie)
 * Autobusy (1,5 EUR od osoby za 2-godzinną podróż, z możliwością przesiadki)
 
-## Piątek, dzień siódmy
+## 📆 Piątek, dzień siódmy
 
 ### Kierunek: Coral Lagoon
 
