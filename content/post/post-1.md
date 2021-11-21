@@ -1,6 +1,6 @@
 ---
 title: "Malta. Wyspa fortów, skał i karaluchów"
-date: 2021-11-01
+date: 2021-11-05
 image: "images/post/malta.jpg"
 author: "Basia" # use capitalize
 categories: ["Green Tree"]
@@ -130,3 +130,13 @@ Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: 
 * 13 km pieszo
 * Autobusy (1,5 EUR od osoby za 2-godzinną podróż, z możliwością przesiadki)
 * Renault Zoe na minuty z aplikacją GoTo Global (6 EUR)
+
+![alt text for screen readers](/images/malta/20211101_122303.jpg )
+![alt text for screen readers](/images/malta/20211031_110141.jpg )
+![alt text for screen readers](/images/malta/20211031_170205.jpg )
+![alt text for screen readers](/images/malta/20211101_125806.jpg )
+![alt text for screen readers](/images/malta/20211101_134143.jpg )
+![alt text for screen readers](/images/malta/20211101_150436.jpg )
+![alt text for screen readers](/images/malta/20211101_151127.jpg )
+![alt text for screen readers](/images/malta/20211105_123031.jpg )
+![alt text for screen readers](/images/malta/20211031_102450.jpg )
