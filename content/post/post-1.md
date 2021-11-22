@@ -131,6 +131,8 @@ Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: 
 * Autobusy (1,5 EUR od osoby za 2-godzinną podróż, z możliwością przesiadki)
 * Renault Zoe na minuty z aplikacją GoTo Global (6 EUR)
 
+## Galeria
+
 ![alt text for screen readers](/images/malta/20211101_122303.jpg )
 ![alt text for screen readers](/images/malta/20211031_110141.jpg )
 ![alt text for screen readers](/images/malta/20211031_170205.jpg )
