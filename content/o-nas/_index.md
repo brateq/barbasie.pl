@@ -1,7 +1,7 @@
 ---
 title: "O nas"
 image: "images/author.jpg"
-description: "This is meta description."
+ 
 draft: false
 ---
 

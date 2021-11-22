@@ -14,11 +14,11 @@ Zaczęliśmy od tygodniowego pobytu w niewielkiej wsi niedaleko Mariboru. Przez 
 
 🧠 Warto pracować zdalnie z miejsca, w którym popołudniem również jest co robić. Truizm? Być może. Przekonaliśmy się jednak na własnej skórze, że nawet wynajęcie apartamentu z basenem to za mało, jeśli wieczorem woda w basenie jest już zimna i nie wiadomo, co ze sobą zrobić.
 
-## Gdzie udało nam się dotrzeć?
+# Gdzie udało nam się dotrzeć?
 
 <div align="center"><iframe style="border:none, display:block" src="https://pl.frame.mapy.cz/s/fujesenelo" width="500" height="350" frameborder="0"></iframe></div>
 
-## Galeria
+# Galeria
 
 ![alt text for screen readers](/images/slowenia/2021_09_18__14_26_20.jpg )
 ![alt text for screen readers](/images/slowenia/2021_09_18__15_21_52.jpg )

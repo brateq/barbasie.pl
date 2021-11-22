@@ -3,7 +3,6 @@ title: "Networks and the Nature of the Firm"
 date: 2020-01-12T12:14:34+06:00
 image: "images/post/post-6.jpg"
 author: "Basia" # use capitalize
-description: "This is meta description."
 categories: ["nature"]
 tags: ["thumb", "video", "top"]
 draft: false
