@@ -1,49 +1,24 @@
 ---
-title: "Networks and the Nature of the Firm"
-date: 2020-01-12T12:14:34+06:00
+title: "Słowenia. Jak nie łączyć wakacji z urlopem?"
+date: 2021-09-24
 image: "images/post/post-2.jpg"
 author: "Basia" # use capitalize
-description: "This is meta description."
 categories: ["nature"]
-tags: ["thumb", "video", "top"]
+tags: ["Słowenia"]
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Słowenia. Niby malutkie państwo wciśnięte gdzieś pomiędzy Austrię, Chorwację, Węgry i Włochy, a tyle w nim do zobaczenia! Tydzień urlopu to zdecydowanie za mało. Dlatego spędziliśmy tam dwa razy więcej czasu, łącząc wakacje z pracą zdalną. I wiesz co? To też mało...
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Zaczęliśmy od tygodniowego pobytu w niewielkiej wsi niedaleko Mariboru. Przez tydzień gapiliśmy się w laptopy na zmianę: znad basenu, z salonu, z tarasu i sypialni. Po pracy zwiedzaliśmy okolicę, ale muszę przyznać, że gdybym mogła cofnąć czas, zarezerwowałabym nocleg bliżej Bledu, bo bardzo, ale to baaardzo żałuję, że nie udało nam się zobaczyć zachodu słońca znad turkusowej tafli Jeziora Bled!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+🧠 Warto pracować zdalnie z miejsca, w którym popołudniem również jest co robić. Truizm? Być może. Przekonaliśmy się jednak na własnej skórze, że nawet wynajęcie apartamentu z basenem to za mało, jeśli wieczorem woda w basenie jest już zimna i nie wiadomo, co ze sobą zrobić.
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+![alt text for screen readers](/images/slowenia/2021_09_18__14_26_20.jpg )
+![alt text for screen readers](/images/slowenia/2021_09_18__15_21_52.jpg )
+![alt text for screen readers](/images/slowenia/2021_09_22__11_09_17.jpg )
+![alt text for screen readers](/images/slowenia/2021_09_22__13_06_19.jpg )
+![alt text for screen readers](/images/slowenia/2021_09_23__13_22_11.jpg )
+![alt text for screen readers](/images/slowenia/2021_09_23__16_46_42-1.jpg )
+![alt text for screen readers](/images/slowenia/2021_09_19__12_45_34.jpg )
+![alt text for screen readers](/images/slowenia/2021_09_20__15_54_48.jpg )
