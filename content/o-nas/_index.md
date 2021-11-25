@@ -1,7 +1,6 @@
 ---
 title: "O nas"
 image: "images/author.jpg"
- 
 draft: false
 ---
 

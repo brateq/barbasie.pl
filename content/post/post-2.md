@@ -1,7 +1,7 @@
 ---
-title: "Słowenia. Jak nie łączyć wakacji z urlopem?"
+title: "Słowenia. Jak nie łączyć pracy z urlopem?"
 date: 2021-09-24
-image: "images/post/post-2.jpg"
+image: "images/post/slowenia.jpg"
 author: "Basia" # use capitalize
 categories: ["nature"]
 tags: ["Słowenia"]
