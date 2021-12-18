@@ -11,5 +11,4 @@ social:
   link : "#"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Programista, ale nie piwniczak, wręcz przeciwnie! Adrenanaline junkie, który najchętniej każdą podróż łączyłby z jazdą motocyklem, samochodem lub czymkolwiek innym - byle szybko i z klasą.
