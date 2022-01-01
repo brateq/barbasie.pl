@@ -4,5 +4,4 @@ image: "images/basia.png"
 email: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Z zawodu tech writerka, a z pasji cyklistka o nieco autystycznej artystycznej duszy. Z matriksa wychodzi tylko po to, żeby podróżować, obserwować rośliny i owady, i zajadać się czekoladą.     
