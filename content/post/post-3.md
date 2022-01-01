@@ -110,3 +110,8 @@ Z innych trików, jakie trzymamy w zanadrzu, warto wspomnieć o tym, że małe r
 O dziwo okazało się, że z paru rzeczy, które zabraliśmy, mogliśmy spokojnie zrezygnować, ale paru rzeczy zabrakło. Nie przydał się nam w zasadzie ręcznik szybkoschnący, zagłówek czy moje opaski antyrzygowe [sic!]. Mogłam za to zabrać bejsbolówkę (przez większość czasu jeździliśmy bez dachu) czy sportowy biustonosz, a żałuję, że nie mamy turystycznej kawiarki. Do poprawy w następnej podróży!
 
 👉🏼 A wy co dodalibyście do listy rzeczy do zabrania na [Keepie](https://keep.google.com/)?
+
+# Galeria
+
+![alt text for screen readers](/images/slowenia/2021_09_12__14_40_02.jpg )
+![alt text for screen readers](/images/slowenia/2021_09_12__14_41_38.jpg )
