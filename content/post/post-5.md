@@ -1,48 +1,49 @@
 ---
-title: "Why The Giving Tree Makes You Cry"
-date: 2019-05-12T12:14:34+06:00
-image: "images/post/post-5.jpg"
+title: "Roztocze. Wiosna w środku Roztoczańskiego Parku Narodowego"
+date: 2021-05-23
+image: "images/post/bukova-gora-g7ba114c66_1920.jpg"
 author: "Basia" # use capitalize
 categories: ["Tree"]
-tags: ["tree", "nice"]
+tags: ["Polska"]
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Ja: *Zróbmy eksperyment*, powiedziałam, *wyjedźmy gdzieś w Polskę, popracować
+zdalnie. Przez parę dni, na próbę powinno wystarczyć. A jak uda się przez tydzień,
+pomyślimy o pracy zdalnej za granicą.*
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+On: *Dobra, zobaczysz, że Ci się spodoba!*
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+# Budzikom śmierć
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Spakowałam laptopa, moje korpo-słuchawki, książkowy kalendarz (ciężki i nieporęczny,
+ale bez niego ani rusz) i ulubiony cienkopis. Upchnęliśmy wszystkie nasze rzeczy w samochód i pojechaliśmy na Roztocze, a dokładniej do miejscowości Obrocz, w samym sercu Roztoczańskiego Parku Narodowego.
+
+Żeby połączyć pracę z urlopem i znaleźć czas na zwiedzanie okolicy, przestawiliśmy się
+na nieco wcześniejsze godziny wstawania. Nastawiałam budzik w telefonie na szóstą i
+rzeczywiście wyskakiwałam z łóżka z samego rana (muszę przyznać, że trzymanie
+telefonu z dala od spania bardzo w tym pomagało 😋).
+
+# Życie zaczyna się po 16:00
+
+Wyjechaliśmy na siedem dni, więc na tygodniu, od rana mniej więcej do szesnastej po prostu pracowaliśmy. Kawa w dłoni, słuchawki na uszach i pełne skupienie, żeby tylko wszystko podomykać i dowieźć na czas. Urlop zaczynaliśmy dopiero popołudniem. Ale
+za to jaki urlop!
+
+Wybraliśmy się na spływ kajakowy rzeką Wieprz, godzinami włóczyliśmy się po Parku i
+obserwowaliśmy wszelkiej maści rośliny i zwierzęta, zwiedziliśmy Browar Zwierzyniec i
+Ogród Zoologiczny w Zamościu, a na dokładkę zaprzyjaźniliśmy się z konikami polskimi
+w folwarku Florianka. Było cudownie!
+
+Bawiliśmy się doskonale, prawie jak na urlopie, a nie wzięliśmy przecież ani jednego
+dnia wolnego! Za to po powrocie do Krakowa wpadliśmy na doskonały pomysł: a może
+by tak pracować częściej poza domem, a w międzyczasie postawić bloga i relacjonować nasze podróże?
+
+I tak narodziły się barbasie.pl 🙂
+
+# Galeria
+
+![alt text for screen readers](/images/roztocze/2021-05-17.jpg )
+![alt text for screen readers](/images/roztocze/2021-05-19.jpg )
+![alt text for screen readers](/images/roztocze/2021-05-198.jpg )
+![alt text for screen readers](/images/roztocze/2021-05-199.jpg )
