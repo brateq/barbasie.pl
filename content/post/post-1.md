@@ -142,3 +142,5 @@ Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: 
 ![alt text for screen readers](/images/malta/20211101_151127.jpg )
 ![alt text for screen readers](/images/malta/20211105_123031.jpg )
 ![alt text for screen readers](/images/malta/20211031_102450.jpg )
+
+*5 listopada 2021*

@@ -115,3 +115,5 @@ O dziwo okazało się, że z paru rzeczy, które zabraliśmy, mogliśmy spokojni
 
 ![alt text for screen readers](/images/slowenia/2021_09_12__14_40_02.jpg )
 ![alt text for screen readers](/images/slowenia/2021_09_12__14_41_38.jpg )
+
+*10 września 2021*

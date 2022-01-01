@@ -47,3 +47,5 @@ I tak narodziły się barbasie.pl 🙂
 ![alt text for screen readers](/images/roztocze/2021-05-19.jpg )
 ![alt text for screen readers](/images/roztocze/2021-05-198.jpg )
 ![alt text for screen readers](/images/roztocze/2021-05-199.jpg )
+
+*23 maja 2021*

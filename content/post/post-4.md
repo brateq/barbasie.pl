@@ -35,3 +35,5 @@ Wiem, że jutro - przez gigantyczne zakwasy - nie będę w stanie wstać z łó�
 ![alt text for screen readers](/images/ustrzyki/bk.jpg )
 ![alt text for screen readers](/images/ustrzyki/20211211_143417.jpg )
 ![alt text for screen readers](/images/ustrzyki/20211214_100140.jpg )
+
+*14 grudnia 2021*

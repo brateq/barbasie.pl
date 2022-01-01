@@ -41,3 +41,5 @@ Wisienką na torcie naszego wyjazdu okazała się jednak przeprawa przez Kanion 
 ![alt text for screen readers](/images/slowenia/2021_09_23__16_46_42-1.jpg )
 ![alt text for screen readers](/images/slowenia/2021_09_19__12_45_34.jpg )
 ![alt text for screen readers](/images/slowenia/2021_09_20__15_54_48.jpg )
+
+*24 września 2021*
