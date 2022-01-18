@@ -133,14 +133,6 @@ Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: 
 
 # Galeria
 
-![alt text for screen readers](/images/malta/20211101_122303.jpg )
-![alt text for screen readers](/images/malta/20211031_110141.jpg )
-![alt text for screen readers](/images/malta/20211031_170205.jpg )
-![alt text for screen readers](/images/malta/20211101_125806.jpg )
-![alt text for screen readers](/images/malta/20211101_134143.jpg )
-![alt text for screen readers](/images/malta/20211101_150436.jpg )
-![alt text for screen readers](/images/malta/20211101_151127.jpg )
-![alt text for screen readers](/images/malta/20211105_123031.jpg )
-![alt text for screen readers](/images/malta/20211031_102450.jpg )
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" >}}
 
 *5 listopada 2021*
