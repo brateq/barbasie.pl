@@ -1,48 +1,167 @@
 ---
-title: "Inspirational Monday: Photographing Pairs in Nature"
-date: 2019-05-12T12:14:34+06:00
+title: "Lizbona. Pasty z denata nie popijesz shakiem z McDonald’s"
+date: 2022-03-07
 image: "images/post/post-3.jpg"
 author: "Basia" # use capitalize
 categories: ["inspire"]
-tags: ["new", "inspire", "nature"]
+tags: ["Portugalia"]
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Nie popijesz, bo shake’ów w restauracjach McDonald’s w Lizbonie po prostu nie sprzedają (w dalszym ciągu trudno mi w to uwierzyć…). A “pasta z denata” to oczywiście pastéis de nata, czyli przepyszne budyniowe babeczki, których spróbujesz w każdej lizbońskiej cukierni.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Na przełomie lutego i marca wybraliśmy się na tygodniowe pracowakacje do stolicy słonecznej Portugalii. Różnica w temperaturze? Jakieś 12 stopni Celsjusza na korzyść Portugalii. W weekendy i wieczorami, po pracy, zwiedziliśmy pewnie większość atrakcji Lizbony. Zahaczyliśmy też o Sintrę, jakieś 30 km na zachód od miasta.  
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+W tym zakątku świata ludzie tańczą sambę jeszcze zanim wejdą do klubu muzycznego, w Lidlu sprzedają owoce morza, których w Polsce nigdy nawet nie widziałam, kostka brukowa jest tak gładka, że aż mieni się w słońcu, a pociągi - w przeciwieństwie do samochodów - poruszają się lewą stroną torowiska. 
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Na pewno jeszcze kiedyś tam wrócimy!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+# Dziennik podróży
+
+Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: co, gdzie i kiedy warto zobaczyć. Zwykle coś z naszego planu odpada, ale w zamian wskakuje coś innego. W dzienniku podróży notujemy wszystkie te miejsca, do których udało nam się dotrzeć. Przyda się? Mam nadzieję!
+
+## 📆 Piątek, dzień pierwszy
+
+#### Atrakcje:
+
+* Tasquinha da Linha, lokalna knajpka, w której za 8 EUR od osoby zjedliśmy obiad i deser, popijając wszystko winem i kawą
+* Fonte Luminosa
+
+#### Środki transportu:
+
+* 10 km pieszo
+
+## 📆 Sobota, dzień drugi
+
+#### Atrakcje:
+
+* Torre de Belém
+* Museu de Marinha (Muzeum Morskie), 6,50 EUR   
+* Mosteiro dos Jeronimos (Klasztor Hieronimitów), 10 EUR
+* Museu Coleção Berardo, darmowe wejście w soboty
+* Padrão dos Descobrimentos (Pomnik Odkrywców)
+
+#### Środki transportu:
+* 14 km pieszo
+* Autobus
+* Pociąg
+
+## 📆 Niedziela, dzień trzeci
+
+#### Atrakcje:
+
+* Castelo de S. Jorge (Zamek św. Jerzego), 10 EUR
+* Rua do Recolhimento (punkt widokowy)
+* Miradouro das Portas do Sol (punkt widokowy)
+* Miradouro de Santa Luzia (punkt widokowy)
+* Katedra Sé (Katedra Najświętszej Maryi Panny w Lizbonie)
+* Praça do Comércio (Plac Handlowy)
+* Arco da Rua Augusta (taras widokowy na łuku triumfalnym), 3 EUR od osoby
+* Elevador de Santa Justa (Winda Santa Justa)
+* Rua Augusta
+
+#### Środki transportu:
+* 17 km pieszo
+
+## 📆 Poniedziałek, dzień czwarty
+
+#### Atrakcje:
+
+* Observation Deck Park Eduardo VII
+* Aqueduto das Águas Livres
+
+#### Środki transportu:
+* 9 km pieszo
+
+## 📆 Wtorek, dzień piąty
+
+#### Atrakcje:
+
+* Rua cor de Rosa (Różowa Ulica)
+* Time Out Market 
+* Uliczna samba przed klubem Titanic Sur Mer
+
+#### Środki transportu:
+
+* 5 km pieszo
+* Metro
+
+## 📆 Środa, dzień szósty
+
+#### Atrakcje:
+
+* Oceanário de Lisboa, 19 EUR od osoby
+* Wieża Vasco da Gama
+* Most Vasco da Gama
+* Koncert Fado w Povo Lisboa, 2 EUR od osoby
+
+#### Środki transportu:
+
+* 9 km pieszo
+* Metro
+
+## 📆 Czwartek, dzień siódmy
+
+#### Atrakcje:
+
+* Jardim da Fundação Calouste Gulbenkian (Ogród Gulbenkiana)
+
+#### Środki transportu:
+
+* 11 km pieszo
+
+## 📆 Piątek, dzień ósmy
+
+#### Atrakcje:
+
+* Avenida da Liberdade
+* Glória Funicular
+* Parque Eduardo VII
+
+#### Środki transportu:
+
+* 13 km pieszo
+* Metro
+
+## 📆 Sobota, dzień dziewiąty
+
+#### Atrakcje:
+
+* Starówka Sintry
+* Castelo dos Mouros (Zamek Maurów) w Sintrze, 8 EUR od osoby
+* Park i mury Palácio da Pena (Pałac Pena), 7,5 EUR od osoby
+
+#### Środki transportu:
+
+* 14 km pieszo
+* Pociąg
+
+## 📆 Niedziela, dzień dziesiąty
+
+#### Atrakcje:
+
+* Museu Nacional de Arte Antiga, 6 EUR od osoby
+* Pilar 7 Bridge Experience, 5 EUR od osoby
+* Tejo Power Station
+* LxFactory
+
+#### Środki transportu:
+
+* 14 km pieszo
+* Autobus
+* Taksówka
+
+<!--
+# Galeria
+
+![alt text for screen readers](/images/malta/20211101_122303.jpg )
+![alt text for screen readers](/images/malta/20211031_110141.jpg )
+![alt text for screen readers](/images/malta/20211031_170205.jpg )
+![alt text for screen readers](/images/malta/20211101_125806.jpg )
+![alt text for screen readers](/images/malta/20211101_134143.jpg )
+![alt text for screen readers](/images/malta/20211101_150436.jpg )
+![alt text for screen readers](/images/malta/20211101_151127.jpg )
+![alt text for screen readers](/images/malta/20211105_123031.jpg )
+
+-->
+*7 marca 2022*
