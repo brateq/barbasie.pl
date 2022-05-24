@@ -48,12 +48,12 @@ weight = 2
 
 [[menu.main]]
 name = "Polska"
-url = "categories/nature/"
+url = "categories/polska/"
 weight = 3
 
 [[menu.main]]
 name = "Świat"
-url = "categories/nature/"
+url = "categories/swiat/"
 weight = 3
 
 #################### default parameters ################################
