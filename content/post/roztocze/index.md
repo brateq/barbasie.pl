@@ -3,7 +3,7 @@ title: "Roztocze. Wiosna w środku Roztoczańskiego Parku Narodowego"
 date: 2021-05-23
 image: "images/post/bukova-gora-g7ba114c66_1920.jpg"
 author: "Basia" # use capitalize
-categories: ["Tree", "Polska"]
+categories: ["Polska"]
 tags: ["Polska"]
 draft: false
 ---

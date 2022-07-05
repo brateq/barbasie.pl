@@ -52,8 +52,8 @@ url = "categories/polska/"
 weight = 3
 
 [[menu.main]]
-name = "Świat"
-url = "categories/swiat/"
+name = "Zagranica"
+url = "categories/zagranica/"
 weight = 3
 
 #################### default parameters ################################

@@ -3,7 +3,7 @@ title: "Malta. Wyspa fortów, skał i karaluchów"
 date: 2021-11-05
 image: "images/post/malta.jpg"
 author: "Basia" # use capitalize
-categories: ["Green Tree"]
+categories: ["zagranica"]
 tags: ["Malta"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Gdańsk. Rowerowa krucjata Z Malborku"
 date: 2020-01-12T12:14:34+06:00
 image: "images/post/post-6.jpg"
 author: "Basia" # use capitalize
-categories: ["nature"]
+categories: ["Polska"]
 tags: ["Polska", "rower"]
 draft: true
 ---

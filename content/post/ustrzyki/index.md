@@ -3,7 +3,7 @@ title: "Ustrzyki Dolne. Pierwszy raz na nartach"
 date: 2021-12-14
 image: "images/post/3151908.jpg"
 author: "Basia" # use capitalize
-categories: ["writing", "Polska"]
+categories: ["Polska"]
 tags: ["Polska", "narty"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Jak spakować do roadstera dwie osoby na dwa tygodnie?"
 date: 2021-09-10
 image: "images/post/Toyota_MR2.jpg"
 author: "Basia" # use capitalize
-categories: ["inspire"]
+categories: ["zagranica"]
 tags: ["Słowenia", "MR2"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Lizbona. Pasty z denata nie popijesz shakiem z McDonald’s"
 date: 2022-03-07
 image: "images/post/1545510.jpg"
 author: "Basia" # use capitalize
-categories: ["inspire"]
+categories: ["zagranica"]
 tags: ["Portugalia"]
 draft: false
 ---
