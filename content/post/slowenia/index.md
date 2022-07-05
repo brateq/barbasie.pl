@@ -33,13 +33,6 @@ Wisienką na torcie naszego wyjazdu okazała się jednak przeprawa przez Kanion 
 
 # Galeria
 
-![alt text for screen readers](/images/slowenia/2021_09_18__14_26_20.jpg )
-![alt text for screen readers](/images/slowenia/2021_09_18__15_21_52.jpg )
-![alt text for screen readers](/images/slowenia/2021_09_22__11_09_17.jpg )
-![alt text for screen readers](/images/slowenia/2021_09_22__13_06_19.jpg )
-![alt text for screen readers](/images/slowenia/2021_09_23__13_22_11.jpg )
-![alt text for screen readers](/images/slowenia/2021_09_23__16_46_42-1.jpg )
-![alt text for screen readers](/images/slowenia/2021_09_19__12_45_34.jpg )
-![alt text for screen readers](/images/slowenia/2021_09_20__15_54_48.jpg )
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" >}}
 
 *24 września 2021*

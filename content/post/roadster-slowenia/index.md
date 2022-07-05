@@ -113,7 +113,6 @@ O dziwo okazało się, że z paru rzeczy, które zabraliśmy, mogliśmy spokojni
 
 # Galeria
 
-![alt text for screen readers](/images/slowenia/2021_09_12__14_40_02.jpg )
-![alt text for screen readers](/images/slowenia/2021_09_12__14_41_38.jpg )
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" >}}
 
 *10 września 2021*

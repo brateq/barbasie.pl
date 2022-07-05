@@ -40,10 +40,7 @@ Udało się! Na ostatnich kilometrach wyobrażałam sobie, że jestem maratończ
 Czy warto podróżować solo? Jak najbardziej! Z rowerem lub bez! 
 
 # Galeria
-![alt text for screen readers](/images/zsr/236176458_10222.jpg )
-![alt text for screen readers](/images/zsr/236623636_102221.jpg )
-![alt text for screen readers](/images/zsr/236842723_102221.jpg )
-![alt text for screen readers](/images/zsr/237242118_1022.jpg )
-![alt text for screen readers](/images/zsr/237492316_102.jpg )
+
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" >}}
 
 *14 sierpnia 2021*

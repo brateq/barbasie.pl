@@ -32,8 +32,6 @@ Wiem, że jutro - przez gigantyczne zakwasy - nie będę w stanie wstać z łó�
 
 # Galeria
 
-![alt text for screen readers](/images/ustrzyki/bk.jpg )
-![alt text for screen readers](/images/ustrzyki/20211211_143417.jpg )
-![alt text for screen readers](/images/ustrzyki/20211214_100140.jpg )
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" >}}
 
 *14 grudnia 2021*

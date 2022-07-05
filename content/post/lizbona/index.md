@@ -1,7 +1,7 @@
 ---
 title: "Lizbona. Pasty z denata nie popijesz shakiem z McDonald’s"
 date: 2022-03-07
-image: "images/post/post-3.jpg"
+image: "images/post/1545510.jpg"
 author: "Basia" # use capitalize
 categories: ["inspire"]
 tags: ["Portugalia"]
@@ -151,17 +151,8 @@ Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: 
 * Autobus
 * Taksówka
 
-<!--
 # Galeria
 
-![alt text for screen readers](/images/malta/20211101_122303.jpg )
-![alt text for screen readers](/images/malta/20211031_110141.jpg )
-![alt text for screen readers](/images/malta/20211031_170205.jpg )
-![alt text for screen readers](/images/malta/20211101_125806.jpg )
-![alt text for screen readers](/images/malta/20211101_134143.jpg )
-![alt text for screen readers](/images/malta/20211101_150436.jpg )
-![alt text for screen readers](/images/malta/20211101_151127.jpg )
-![alt text for screen readers](/images/malta/20211105_123031.jpg )
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview="true" >}}
 
--->
 *7 marca 2022*
