@@ -3,7 +3,7 @@ title: "Żelazny Szlak Rowerowy. Do Karviny i z powrotem"
 date: 2021-08-14
 image: "images/post/wiadukt_nad_Ranoszka.jpg"
 author: "Basia" # use capitalize
-categories: ["Nature"]
+categories: ["Nature", "Polska"]
 tags: ["Polska", "Czechy", "rower"]
 draft: false
 ---

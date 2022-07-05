@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://www.example.com"
 title = "barbasie.pl, czyli blog podróżniczy Basi i Bartosza"
-theme = "persian-hugo"
+theme = ["persian-hugo", "hugo-shortcode-gallery"]
 languageName = "Pl"
 languageCode = "pl"
 # post pagination
@@ -26,8 +26,6 @@ link = "plugins/themify-icons/themify-icons.css"
 
 # JS Plugins
 [[params.plugins.js]]
-link = "plugins/jQuery/jquery.min.js"
-[[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/search/fuse.min.js"
@@ -50,12 +48,12 @@ weight = 2
 
 [[menu.main]]
 name = "Polska"
-url = "categories/nature/"
+url = "categories/polska/"
 weight = 3
 
 [[menu.main]]
 name = "Świat"
-url = "categories/nature/"
+url = "categories/swiat/"
 weight = 3
 
 #################### default parameters ################################
