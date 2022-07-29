@@ -8,6 +8,7 @@ languageCode = "pl"
 paginate = "5"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
+timeout = 60000
 
 ############################# output ##############################
 [outputs]
@@ -78,6 +79,3 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.cookies]
 enable = true
 expire_days = 2
-
-# build
-timeout = 60000
