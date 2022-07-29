@@ -78,3 +78,6 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.cookies]
 enable = true
 expire_days = 2
+
+# build
+timeout = 60000
