@@ -12,7 +12,7 @@ Jak co roku, spakowałyśmy sakwy i wyruszyłyśmy na tygodniowy rajd rowerowy w
 
 Na całej trasie najbardziej podobały mi się Żabie Doły, czyli park krajobrazowy pomiędzy Chorzowem a Bytomiem. Na Śląsku mieszkałam przecież aż do trzydziestki, a nigdy nawet nie słyszałam o tym miejscu... Nie miałam też pojęcia o istnieniu Rezerwatu Łężczok, niedaleko Raciborza, a zdecydowanie warto było tam podjechać!
 
-Dzięki odcinkowi trasy z Bytomia do Katowic zdałam też sobie z czegoś sprawę. To, że rowerzyści mogą jeździć drogami krajowymi, nie znaczy, że powinni. Po tej przejażdżce i samochodach przejeżdżających czasem tylko kilkanaście centymetrów obok nas, od dróg krajowych trzymam się Z DALEKA.
+Dzięki odcinkowi trasy z Bytomia do Katowic zdałam też sobie z czegoś sprawę. To, że rowerzyści mogą jeździć drogami krajowymi, nie znaczy, że powinni. Po tej wycieczce i samochodach przejeżdżających czasem tylko kilkanaście centymetrów od nas, od dróg krajowych trzymam się Z DALEKA.
 
 # Dziennik podróży
 
