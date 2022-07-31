@@ -20,83 +20,93 @@ Przed (prawie) każdą podróżą przygotowujemy szczegółowy plan zwiedzania: 
 
 ## 📆 Poniedziałek, dzień pierwszy
 
+### Kierunek: Szonowice
+
 #### Atrakcje:
 
-* Tasquinha da Linha, lokalna knajpka, w której za 8 EUR od osoby zjedliśmy obiad i deser, popijając wszystko winem i kawą
-* Fonte Luminosa
+* Rezerwat Łężczok
+* Kuźnia Raciborska
+* Racibórz
 
 #### Środki transportu:
 
-* 10 km pieszo
+* ok. 14 km pieszo
+* ok. 60 km rowerem
 
 ## 📆 Wtorek, dzień drugi
 
+### Kierunek: Gogolin
+
 #### Atrakcje:
 
-* Torre de Belém
-* Museu de Marinha (Muzeum Morskie), 6,50 EUR   
-* Mosteiro dos Jeronimos (Klasztor Hieronimitów), 10 EUR
-* Museu Coleção Berardo, darmowe wejście w soboty
-* Padrão dos Descobrimentos (Pomnik Odkrywców)
+* Pałac w Większycach
+* Fort Fryderyka Wilhelma w Kędzierzynie-Koźlu
+* Śluza Kłodnica
+* Zamek w Krapkowicach
 
 #### Środki transportu:
-* 14 km pieszo
-* Autobus
-* Pociąg
+* ok. 7 km pieszo
+* ok. 58 km rowerem
 
 ## 📆 Środa, dzień trzeci
 
+### Kierunek: Kluczbork
+
 #### Atrakcje:
 
-* Castelo de S. Jorge (Zamek św. Jerzego), 10 EUR
-* Rua do Recolhimento (punkt widokowy)
-* Miradouro das Portas do Sol (punkt widokowy)
-* Miradouro de Santa Luzia (punkt widokowy)
-* Katedra Sé (Katedra Najświętszej Maryi Panny w Lizbonie)
-* Praça do Comércio (Plac Handlowy)
-* Arco da Rua Augusta (taras widokowy na łuku triumfalnym), 3 EUR od osoby
-* Elevador de Santa Justa (Winda Santa Justa)
-* Rua Augusta
+* Wyspa Bolko w Opolu
+* Wieża Piastowska w Opolu
+* Rynek w Opolu
+* Most Groszowy w Opolu
 
 #### Środki transportu:
-* 17 km pieszo
+* ok. 10 km pieszo
+* ok. 65 km rowerem
+* ok. 15 km pociągiem
 
 ## 📆 Czwartek, dzień czwarty
 
+### Kierunek: Borki Wielkie
+
 #### Atrakcje:
 
-* Observation Deck Park Eduardo VII
-* Aqueduto das Águas Livres
+* Brama Krakowska w Kluczborku
+* Zbiornik Retencyjny w Kluczborku
+* Rynek w Kluczborku
+* Gród w Byczynie
 
 #### Środki transportu:
-* 9 km pieszo
+* ok. 10 km pieszo
+* ok. 74 km rowerem
 
 ## 📆 Piątek, dzień piąty
 
+### Kierunek: Koziegłowy
+
 #### Atrakcje:
 
-* Rua cor de Rosa (Różowa Ulica)
-* Time Out Market 
-* Uliczna samba przed klubem Titanic Sur Mer
+* Park Krajobrazowy Lasy nad Górną Liswartą
+* Mural 3 Pułk Ułanów Śląskich w Woźnikach
 
 #### Środki transportu:
 
-* 5 km pieszo
-* Metro
+* 8 km pieszo
+* ok. 65 km rowerem
 
 ## 📆 Sobota, dzień szósty
 
+### Kierunek: Katowice
+
 #### Atrakcje:
 
-* Oceanário de Lisboa, 19 EUR od osoby
-* Wieża Vasco da Gama
-* Most Vasco da Gama
-* Koncert Fado w Povo Lisboa, 2 EUR od osoby
+* Platforma Widokowa - Pas 09
+* Park Świerklaniec
+* Zespół przyrodniczo-krajobrazowy Żabie Doły
 
 #### Środki transportu:
 
-* 9 km pieszo
-* Metro
+* ok. 5 km pieszo
+* ok. 53 km rowerem
 
 # Galeria
 
