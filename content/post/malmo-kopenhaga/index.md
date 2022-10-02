@@ -1,7 +1,7 @@
 ---
 title: "Malmö i Kopenhaga. Dwie pieczenie na jednym ogniu"
 date: 2022-08-15
-image: "images/post/1545510.jpg"
+image: "images/post/malmo.jpg"
 author: "Basia" # use capitalize
 categories: ["zagranica"]
 tags: ["Szwecja, Dania"]
